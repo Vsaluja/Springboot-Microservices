@@ -5,8 +5,13 @@ This project is a Spring Boot application utilizing a microservices architecture
 
 
 -A Spring Boot microservices application managing quizzes and related questions.
+
 -Includes Question and Quiz microservices for CRUD operations.
+
 -Utilizes an API gateway for routing requests.
+
 -Employs Eureka Server for service discovery.
+
 -Integrates Spring Data JPA and H2 Database.
+
 -Structured with endpoints for managing questions and quizzes.
